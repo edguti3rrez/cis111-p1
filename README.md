@@ -1,5 +1,4 @@
-# edguti3rrez.github.io-cit111-p1
-Project 1 for CIT 111
+## Project 1 Files:
 
 ```markdown
 - hello-world.html: My first solo html webpage with headers and a list
